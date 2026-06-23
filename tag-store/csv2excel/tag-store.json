@@ -1,0 +1,7 @@
+{
+   "description": "converts csv formatted text to complete xlsx format byte equivalent",
+   "language": "Python",
+   "tagName": "csv2excel",
+   "author": "giuseppesec",
+   "numberOfArgs": 0
+}
